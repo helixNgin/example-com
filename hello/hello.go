@@ -5,7 +5,7 @@
 package main
 
 import (
-	"example.com/greetings"
+	"example-com/greetings"
 	"fmt"
 )
 
