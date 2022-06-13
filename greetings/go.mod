@@ -1,3 +1,3 @@
-module github.com/dokiedaniel/example-com/greetings
+module greetings
 
 go 1.18
