@@ -1,5 +1,3 @@
-module example-com
-
-replace github.com/dokiedaniel/example-com/greetings => ./greetings
+module github.com/dokiedaniel/example-com
 
 go 1.18
