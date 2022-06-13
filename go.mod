@@ -1,4 +1,4 @@
-module main
+module github.com/dokiedaniel/example-com
 
 replace example.com/greetings => ./greetings
 
