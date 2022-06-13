@@ -4,4 +4,4 @@
 **/
 package greetings
 
-func Hello(str string) string { return "Hello, " + str }
+func Greetings(str string) string { return "Greetings, " + str }
