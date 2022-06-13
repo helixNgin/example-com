@@ -5,8 +5,8 @@
 package main
 
 import (
-	"example.com/greetings"
 	"fmt"
+	"github.com/dokiedaniel/example-com/greetings"
 )
 
 func main() {

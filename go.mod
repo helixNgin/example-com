@@ -4,4 +4,4 @@ replace example.com/greetings => ./greetings
 
 go 1.18
 
-require example.com/greetings v0.0.3
+require github.com/dokiedaniel/example-com/greetings v0.0.0-20220613110434-54f08e36824d
