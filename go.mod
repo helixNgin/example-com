@@ -1,3 +1,3 @@
-module github.com/helixNgin/example-com/v2
+module github.com/helixNgin/example-com
 
 go 1.18
