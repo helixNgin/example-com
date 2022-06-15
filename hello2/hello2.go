@@ -5,5 +5,5 @@
 package hello2
 
 func Hello2(str string) string {
-	return "Hello2, " + str
+	return "Hello2?, " + str
 }
